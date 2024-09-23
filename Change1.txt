@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello word from java. (dev branch)
+=======
+Hello word from java (developer)
+>>>>>>> b313a81db7d53145b7dfca3cf889713b3deb15dc
